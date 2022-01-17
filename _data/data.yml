@@ -87,9 +87,9 @@ experiences:
       time: 2000 - 2002
       company: Sociedade Portuguesa de Autores | SPA
       details: |
-        Rights collection management
-        Payment issue towards users
-        Issuing Author (or representing legal agency) proportional royalties
+        - Rights collection management
+        - Payment issue towards users
+        - Issuing Author (or representing legal agency) proportional royalties
 
 Major projects:
     title: 
@@ -121,21 +121,6 @@ Training:
     
     title:  Contratação Pública | Knowit
     intro: |
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
 
 skills:
     title: Skills
